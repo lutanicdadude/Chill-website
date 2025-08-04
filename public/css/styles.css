@@ -1,0 +1,39 @@
+body {
+    background-color: #ffe4c4;
+}
+
+.leftArrowImage {
+    width: 200px;
+}
+
+.rightArrowImage {
+    width: 200px;
+}
+
+.leftArrowImage:hover {
+    content: url(/images/leftArrowHover.png);
+}
+
+.rightArrowImage:hover {
+    content: url(/images//rightArrowHover.png);
+}
+
+.backImage {
+    width: 70px;
+}
+
+.rpsMascot {
+    width: 300px;
+    justify-content: center;
+}
+
+#introTexts {
+    font-family: "Lilita One", sans-serif;
+    font-size: 150%;
+}
+
+.chillTitle {
+    font-weight: bold;
+    color: rgb(89, 206, 245);
+    font-family: "Bungee", sans-serif;
+}
